@@ -28,7 +28,7 @@ SECRET_KEY = 'duhar^d042nl!&9_7q9hxb*s6g1!%hw3-axu19p#r&1!ko)6o_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vast-dusk-13943.herokuapp.com' , 'localhost']
 
 
 # Application definition
