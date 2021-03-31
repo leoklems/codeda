@@ -34,7 +34,7 @@ idna==2.8
 incremental==17.5.0
 iso8601==0.1.12
 jmespath==0.9.5
-lxml==4.4.2
+lxml==4.6.3
 msgpack==0.6.2
 oauthlib==3.1.0
 optional-django==0.3.0
